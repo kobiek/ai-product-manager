@@ -265,19 +265,6 @@ To revolutionize product management by automating 80% of PM tasks through AI, ma
 
 ---
 
-## 📞 Contact Information
-
-### **Business Development**
-- **Email**: business@productflow.ai
-- **Phone**: +1 (555) 123-4567
-- **LinkedIn**: ProductFlow AI
-- **Twitter**: @ProductFlowAI
-
-### **Technical Support**
-- **Email**: support@productflow.ai
-- **Documentation**: docs.productflow.ai
-- **Status Page**: status.productflow.ai
-- **Community**: community.productflow.ai
 
 ---
 
